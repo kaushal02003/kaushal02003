@@ -6,8 +6,8 @@
 - 🗂️ Building mini-projects to learn and share my progress
 - 🤝 Eager to collaborate on student or beginner-friendly projects
 
-### 🤝 Let’s Connect!
-I'm open to collaborating and learning together. Feel free to check out my repos or connect through [LinkedIn](http:/www.linkedin.com/in/mern-kaushal-pandey).
+## 🌐 Let’s Connect!
+I'm open to collaborating and learning together. Feel free to check out my repos or connect through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http:/www.linkedin.com/in/mern-kaushal-pandey).
 
 
 ## 🌐 Socials:
