@@ -12,7 +12,7 @@
 - Git & GitHub
 
 ### 🤝 Let’s Connect!
-I'm open to collaborating and learning together. Feel free to check out my repos or connect through [LinkedIn](linkedin.com/in/mern-kaushal-pandey).
+I'm open to collaborating and learning together. Feel free to check out my repos or connect through [LinkedIn](http:/www.linkedin.com/in/mern-kaushal-pandey).
 
 
 ## 🌐 Socials:
