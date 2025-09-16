@@ -1,7 +1,7 @@
 # Hi👋, I'm kaushal
 
 - 🛠️ Engineering student passionate about coding and open source
-- 🌱 Learning Java, C++ and full-stack web development
+- 🌱 Learning Java and full-stack web development
 - 👀 Interested in teamwork and real-world projects
 - 🗂️ Building mini-projects to learn and share my progress
 - 🤝 Eager to collaborate on student or beginner-friendly projects
