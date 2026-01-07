@@ -1,10 +1,11 @@
-#Hi 👋, I'm Kaushal
--🛠️ Engineering Student passionate about Full-Stack Development and Problem Solving
--🌱 Currently Mastering the MERN Stack (MongoDB, Express, React, Node.js)
--💻 Strong Foundation in Data Structures and Algorithms (DSA) using Java
--🗂️ Building Real-World Projects like memories.
--🤝 Eager to Collaborate on open-source projects or beginner-friendly student challenges
--🚀 Focused on writing clean, scalable code and learning modern backend architecture
+##Hi 👋, I'm Kaushal
+
+[]-🛠️ Engineering Student passionate about Full-Stack Development and Problem Solving
+[]-🌱 Currently Mastering the MERN Stack (MongoDB, Express, React, Node.js)
+[]-💻 Strong Foundation in Data Structures and Algorithms (DSA) using Java
+[]-🗂️ Building Real-World Projects like memories.
+[]-🤝 Eager to Collaborate on open-source projects or beginner-friendly student challenges
+[]-🚀 Focused on writing clean, scalable code and learning modern backend architecture
 
 ## 🌐 Let’s Connect!
 I'm open to collaborating and learning together. Feel free to check out my repos or connect through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http:/www.linkedin.com/in/mern-kaushal-pandey).
